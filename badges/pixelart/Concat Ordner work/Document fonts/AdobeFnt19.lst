@@ -1,0 +1,129 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BreeSerif-Italic
+FamilyName:Bree Serif
+StyleName:Italic
+MenuName:Bree Serif
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Bree Serif Italic
+WritingScript:Roman
+OutlineFileName:\Bree Serif Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61328
+FileModTime:1509402804
+NameArray:0,Mac,18,Bree Serif Italic
+NameArray:0,Mac,4,Bree Serif Italic
+NameArray:0,Win,1,Bree Serif
+NameArray:0,Win,16,Bree Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BreeSerif-Regular
+FamilyName:Bree Serif
+StyleName:Regular
+MenuName:Bree Serif
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bree Serif Regular
+WritingScript:Roman
+OutlineFileName:\BreeSerif-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46572
+FileModTime:1509402424
+NameArray:0,Mac,4,Bree Serif Regular
+NameArray:0,Win,1,Bree Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GillSansStd-Bold
+FamilyName:Gill Sans Std
+StyleName:Bold
+MenuName:Gill Sans Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Gill Sans Std Bold
+WritingScript:Roman
+OutlineFileName:\GillSansStd-Bold_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29668
+FileModTime:1055438774
+NameArray:0,Mac,4,Gill Sans Std Bold
+NameArray:0,Win,1,Gill Sans Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GillSansStd-Light
+FamilyName:Gill Sans Std
+StyleName:Light
+MenuName:Gill Sans Std Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Gill Sans Std Light
+WritingScript:Roman
+OutlineFileName:\GillSansStd-Light_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28732
+FileModTime:1055438774
+NameArray:0,Mac,4,Gill Sans Std Light
+NameArray:0,Win,1,Gill Sans Std Light
+NameArray:0,Win,16,Gill Sans Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GillSansStd
+FamilyName:Gill Sans Std
+StyleName:Regular
+MenuName:Gill Sans Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gill Sans Std
+WritingScript:Roman
+OutlineFileName:\GillSansStd_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28880
+FileModTime:1055438774
+NameArray:0,Mac,4,Gill Sans Std
+NameArray:0,Win,1,Gill Sans Std
+%EndFont
+
