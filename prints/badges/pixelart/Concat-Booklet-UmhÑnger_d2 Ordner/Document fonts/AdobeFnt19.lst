@@ -1,0 +1,101 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Black
+FamilyName:Lato
+StyleName:Black
+MenuName:Lato Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Lato Black
+WritingScript:Roman
+OutlineFileName:\Lato-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:114588
+FileModTime:1292371200
+NameArray:0,Mac,4,Lato Black
+NameArray:0,Win,1,Lato Black
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GillSansStd
+FamilyName:Gill Sans Std
+StyleName:Regular
+MenuName:Gill Sans Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gill Sans Std
+WritingScript:Roman
+OutlineFileName:\GillSansStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28880
+FileModTime:1055420774
+NameArray:0,Mac,4,Gill Sans Std
+NameArray:0,Win,1,Gill Sans Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Semibold
+FamilyName:Lato
+StyleName:Semibold
+MenuName:Lato Semibold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Lato Semibold
+WritingScript:Roman
+OutlineFileName:\Lato-Semibold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:645008
+FileModTime:1409542820
+NameArray:0,Mac,4,Lato Semibold
+NameArray:0,Win,1,Lato Semibold
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GillSansStd-Bold
+FamilyName:Gill Sans Std
+StyleName:Bold
+MenuName:Gill Sans Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Gill Sans Std Bold
+WritingScript:Roman
+OutlineFileName:\GillSansStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29668
+FileModTime:1055420774
+NameArray:0,Mac,4,Gill Sans Std Bold
+NameArray:0,Win,1,Gill Sans Std
+%EndFont
+

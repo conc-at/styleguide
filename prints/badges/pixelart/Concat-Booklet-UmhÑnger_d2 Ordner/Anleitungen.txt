@@ -1,0 +1,107 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: Concat-Booklet-Umhänger_d2.indd
+
+PACKDATUM: 23.01.2018 09:27
+Erstellungsdatum 23.01.2018
+Änderungsdatum: 23.01.2018
+
+AUFTRAGGEBER
+
+Firma: 
+Ansprechpartner: 
+Adresse: 
+
+
+
+
+
+Telefon: 
+Fax: 
+E-Mail: 
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+
+
+
+
+
+Externe Zusatzmodule 0
+Nicht deckende Objekte: Auf Seite1
+
+SCHRIFTARTEN
+19 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 1 geschützt
+
+Schriftarten nicht verpackt
+- Name: BreeSerifSb; Typ: OpenType Type 1, Status: Synchronisiert
+Schriftarten verpackt
+- Name: GillSansStd; Typ: OpenType Type 1, Status: OK
+- Name: GillSansStd-Bold; Typ: OpenType Type 1, Status: OK
+- Name: Lato-Black; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Black; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Black; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Black; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Black; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Black; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Black; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Black; Typ: OpenType TrueType, Status: OK
+- Name: Lato-Semibold; Typ: TrueType, Status: OK
+- Name: Lato-Semibold; Typ: TrueType, Status: OK
+- Name: Lato-Semibold; Typ: TrueType, Status: OK
+- Name: Lato-Semibold; Typ: TrueType, Status: OK
+- Name: Lato-Semibold; Typ: TrueType, Status: OK
+- Name: Lato-Semibold; Typ: TrueType, Status: OK
+- Name: Lato-Semibold; Typ: TrueType, Status: OK
+- Name: Lato-Semibold; Typ: TrueType, Status: OK
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 0,000; Linien/Zoll: 0,000
+
+
+VERKNÜPFUNGEN UND BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen und Bilder: 1 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 1 verwenden RGB-Farbraum
+
+
+DRUCKEINSTELLUNGEN
+PPD: n. zutr., (\\dc01.pixelart.intern\KONICA MINOLTA C227)
+Druckausgabe: Drucker
+Anzahl der Exemplare: 1
+Druckbögen: Ja
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Ohne
+Skalieren: 100 %, 100 %
+Seitenposition: Zentrieren
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 cm, 0 cm, 0 cm, 0 cm
+Farbe: Composite-RGB
+Überfüllungsmodus:  Ohne
+Bilddaten senden: Alle
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: Benutzerdefiniert: 9 cm x 13,5 cm
+Papierabmessungen: 21 cm x 29,7 cm
+Format: Hochformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. Concat-Booklet-Umhänger_d2.indd; Typ: Adobe InDesign-Satzdatei; Größe: 1284K
+2. Concat-Booklet-Umhänger_d2.idml; Typ: InDesign Markup-Dokument; Größe: 77K
+3. Concat-Booklet-Umhänger_d2.pdf; Typ: Adobe Acrobat-Dokument; Größe: 642K
+4. GillSansStd.otf; Typ: Schriftartendatei; Größe: 28K
+5. GillSansStd-Bold.otf; Typ: Schriftartendatei; Größe: 28K
+6. Lato-Black.ttf; Typ: Schriftartendatei; Größe: 111K
+7. Lato-Semibold.ttf; Typ: Schriftartendatei; Größe: 629K
